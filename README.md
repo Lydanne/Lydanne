@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lydanne</h1>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/5cd53623-cd4b-4cdb-aaaf-68733b328ecb" alt="lydanne" /></p>
+
 <h3 align="center">Learning without end, love of open source.</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lydanne&show_icons=true&theme=cobaltlocale=en" alt="lydanne" /></p>
